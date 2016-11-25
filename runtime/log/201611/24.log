@@ -1,0 +1,28 @@
+[ 2016-11-24T15:07:27+08:00 ] ::1 ::1 GET /thinkphp_5.0.3_core/public/
+[ log ] localhost/thinkphp_5.0.3_core/public/ [运行时间：0.013444s][吞吐率：74.38req/s] [内存消耗：1,069.31kb] [文件加载：25]
+[ info ] [ LANG ] D:\wamp\www\thinkphp_5.0.3_core\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.71 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'referer' => 'http://localhost/thinkphp_5.0.3_core/',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\wamp\www\thinkphp_5.0.3_core\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
